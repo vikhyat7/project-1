@@ -1,0 +1,135 @@
+body
+{
+
+}
+
+#user
+{
+	color: blue;
+	padding:20px;
+	margin: 10%;
+	border :2px solid blue;
+
+}
+#text
+{
+	font-size: 35px;
+
+}
+#text1
+{
+	font-size: 12px;
+	letter-spacing: 5px;
+
+}
+#Search
+{
+
+	margin-top: 10%;
+}
+#Search1
+{
+	font-size: 3px;
+	padding: -4px;
+	margin-top: -2%;
+	
+
+}
+
+#cart
+{
+	margin-left: 75%;
+	font-size: 20px;
+	margin-top:-25%;
+	border:2px solid blue;
+	color: blue;
+	padding: 20px;
+	/*position: fixed;*/
+
+}
+#menu
+{
+	width: 100%;
+	height:60px;
+	background-color: blue;
+}
+#MENU ul a
+{
+	display: inline-block;
+	color: white;
+}
+.m1 li 
+{
+	padding: 15px 30px;  
+	display:inline-block;
+
+}
+.m1 a
+{
+	color: white;
+	font-size: 15px;
+	text-decoration:none;
+
+}
+.m1 a:hover
+{
+	color: red;
+	text-decoration: none;
+
+}
+#i1
+{
+	width: 100%;
+	height: 500px;
+	
+}
+#v1
+{
+	margin: 30px;
+}
+#submenu li
+{
+	display: inline-block;
+	padding: 30px 20px; 
+
+}
+#submenu a 
+{
+	font-size: 15px;
+	color: black;
+}
+#submenu a:hover
+{
+	color: blue;
+	border-bottom: 10px blue;
+	text-decoration: none;
+	box-sizing: 15px 20px blue;
+
+}
+#img3 b
+{
+	color:#F0F;
+	font-size: 15px;
+
+}
+#f1
+{
+	background-color: #60F;
+	height: 100px;
+	color: white;
+}
+#e1
+{
+	align-content: center;
+	width: 35%;
+	height: 25px;
+	margin-top: 5%;
+}
+#footer  li a
+{
+	color:black;
+	    list-style-type: circle;
+}
+ul.a {
+    list-style-type: circle;
+}
